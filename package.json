@@ -8,5 +8,13 @@
   },
   "keywords": ["插件","非官方","vue自定义插件","vue"],
   "author": "coderz",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/coderx-waper/ofi-directives.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderx-waper/ofi-directives.git"
+  },
+  "dependencies": {
+    "dayjs": "^1.10.5"
+  }
 }
