@@ -1,12 +1,17 @@
 {
   "name": "ofi-directives",
-  "version": "1.0.0",
-  "description": "非官方自定义插件",
+  "version": "1.0.2",
+  "description": "unofficial custom plugin",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["插件","非官方","vue自定义插件","vue"],
+  "keywords": [
+    "plugin",
+    "unofficial",
+    "vue custom plugin",
+    "vue"
+  ],
   "author": "coderz",
   "license": "ISC",
   "homepage": "https://github.com/coderx-waper/ofi-directives.git",
